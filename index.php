@@ -16,7 +16,7 @@ include 'header.php';
     <div class="container">
         <div class="row">
             <div class="col-md  mt-4 mb-3">
-                <h2>Produk Terbaru</h2>
+                <h2>Produk Terbaru kami</h2>
                 <a href="listproduk.php" class="float-right text-decoration-none font-weight-light">Lihat Selengkapnya</a>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum distinctio dolor vitae voluptates dolore fuga. </p>
                 <hr class="garis">
